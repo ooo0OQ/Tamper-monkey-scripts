@@ -38,7 +38,7 @@
 		}
 	  }, 1000)
   
-  
+      console.log("GG")
 	  let sumFragment = 0 // 已经捕获的所有片段数
 	  let isClose = false // 是否关闭
 	  let isStreamDownload = false // 是否使用流式下载
